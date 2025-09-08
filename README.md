@@ -27,3 +27,16 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+<script setup>
+
+</script>
+
+<template>
+    
+</template>
+
+<style scoped>
+    
+</style>
